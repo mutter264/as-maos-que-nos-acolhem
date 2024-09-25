@@ -1,0 +1,32 @@
+/*gabriel mutter de souza 3C*/
+body {
+    background-color: #120000;
+    color: #e9c018;
+    font-family: "Oswald", sans-serif;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 60px;
+}
+P{
+    font-size: 30px;
+}
+.passo{
+    display: none;
+}
+.passo.ativo{
+    display: block;
+}
+.memo{
+    height: 500px;
+    margin: 20px;
+}
+.pro{
+    height: 200px;
+}
+button{
+    font-size: 20px;
+}
+strong{
+    font-size: 100px;
+}
